@@ -11,27 +11,19 @@ As a experienced Data Scientist and Air Force pilot I combine analytical skills,
 
 My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning.
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [LinkedIn](https://www.linkedin.com/in/lanielson-andrade)
 
 ## Projetos:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 ---
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lanielson.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lanielsonandrades@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lanielson-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
